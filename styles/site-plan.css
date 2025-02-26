@@ -8,7 +8,7 @@ Fonts are separated by a | */
   --primary-color: rgb(33, 33, 218) ;
   --secondary-color: black ;
   --accent1-color: white;
-  --accent2-color: rgb(112, 112, 112);
+  --accent2-color: rgb(117, 117, 117);
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Sixtyfour";
@@ -20,10 +20,10 @@ Fonts are separated by a | */
   --paragraph-color-on-white: rgb(33, 33, 218); /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: black;
-  --nav-link-color: rgb(33, 33, 218);
-  --nav-background-color: rgb(112, 112, 112);
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: rgb(33, 33, 218);
+  --nav-link-color: white;
+  --nav-background-color: rgb(117, 117, 117);
+  --nav-hover-link-color: rgb(33, 33, 218);
+  --nav-hover-background-color: white;
 }
 
 
